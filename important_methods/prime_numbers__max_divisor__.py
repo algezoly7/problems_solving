@@ -1,7 +1,6 @@
 #for more informations copy this link: https://youtu.be/2p3kwF04xcA.
 #to find out whether a number is a prime one.
 import math
-import time
 n = int(input())
 max_divisor = math.ceil(math.sqrt(n))
 tracker = True
