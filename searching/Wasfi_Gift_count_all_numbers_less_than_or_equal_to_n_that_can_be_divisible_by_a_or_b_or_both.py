@@ -1,3 +1,5 @@
+#for more informations copy this link: https://www.hackerrank.com/contests/easyhack4-warmup/challenges/wasfi-gift/problem
+
 T = int(input())
 import math
 for _ in range(T):
