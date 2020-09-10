@@ -1,6 +1,6 @@
 #for more informations copy this link: https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem
-#this problem is here because it's very important
-#it's right place is at implementations
+#this problem is here because it's very important .
+#it's right place is at the implementations file .
 
 def jumpingOnClouds(c):
     end = n - 1
